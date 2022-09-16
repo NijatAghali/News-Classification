@@ -3,7 +3,7 @@
 
 Data Source
 ------
-In this assignment, we are expected to build a model that classifies given news article in Azerbaijani into one of the pre-defined six categories. You will need to train your model on a dataset of 50000 news examples. 
+In this assignment, we are expected to build a model that classifies given news article in Azerbaijani into one of the pre-defined six categories. We will need to train our model on a dataset of 50000 news examples. 
 We will need to read the data from data file (news.xlsx). It contains three columns: news category, news title, and the news content. </br>
 Category - six different news categories,
 Title - news title, 
